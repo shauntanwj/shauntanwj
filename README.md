@@ -1,5 +1,5 @@
 ## 🚀 About Me
-I'm a recent computer science graduate from Monash University Malaysia. I'm passionate about software development and eager to kickstart my career in this exciting field. This repository serves as a brief introduction to who I am, my skills, and the projects I've worked on during my academic journey.
+I'm a computer science graduate from Monash University Malaysia. I'm passionate about software development and eager to kickstart my career in this exciting field. This repository serves as a brief introduction to who I am, my skills, and the projects I've worked on during my academic journey.
 
 Feel free to explore my repositories, projects, and contributions to get a sense of my abilities, interests, and coding style. I'm open to collaborating, learning from others, and contributing to innovative projects.
 
